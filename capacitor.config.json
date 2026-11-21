@@ -1,0 +1,16 @@
+{
+  "appId": "com.alhawari.masareef",
+  "appName": "Masareef",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "iosScheme": "capacitor",
+    "allowNavigation": [
+      "*"
+    ]
+  },
+  "ios": {
+    "contentInset": "automatic",
+    "scheme": "Masareef"
+  }
+}
